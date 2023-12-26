@@ -392,7 +392,7 @@
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17,0.6) 100%
         ), 
-        url('/Website.folder/images/pic3.jpg');
+        url('/uwsportstats.github.io/images/pic3.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -405,7 +405,7 @@
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17,0.6) 100%
         ), 
-        url('/Website.folder/images/pic2.jpg');
+        url('/uwsportstats.github.io/images/pic2.jpg');
 }
 
 .services h2 {
